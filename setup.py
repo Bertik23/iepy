@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name=iepy.__title__,  # Replace with your own username
+    name="b23"+iepy.__title__,  # Replace with your own username
     version=iepy.__version__,
     author=iepy.__author__,
     author_email="bertikxxiii@gmail.com",
