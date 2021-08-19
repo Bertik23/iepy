@@ -87,9 +87,7 @@ class Event:
     Attributes
     ----------
 
-    date: Union[
-        :class:`datetime.date`, :class:`datetime.datetime`, :class:`Date`
-    ]
+    date: Union[:class:`datetime.date`, :class:`datetime.datetime`, :class:`Date`]
         The date of the event (day, month)
     year: :class:`int`
         The year when the event happened.
@@ -174,7 +172,7 @@ def tweetEvent(
 
 
     .. note ::
-        If `accessToken` or `accessTokenSecret` is not supplied you will
+        If ``accessToken`` or ``accessTokenSecret`` is not supplied you will
         be promted with a link to go too and then enter a verifier.
     """
     # Authenticate to Twitter
