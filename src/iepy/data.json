@@ -226,6 +226,15 @@
                     "description": "The Chamber of Deputies of the Parliament of the Czech Republic has resolved to dissolve the House. There will be elections"
                 }
             }
+        },
+        {
+            "year": 2019,
+            "data": {
+                "cz": {
+                    "summary": "Slavia vyhrála zápas 4.pk LM",
+                    "description": "SK Slavia Praha poráží ve 4. předkole Ligy Mistrů Kluž 1:0 a má tak nakročeno do skupinové fáze"
+                }
+            }
         }
     ],
     "08-21": [
@@ -252,6 +261,17 @@
                 "en": {
                     "summary": "Barbora Špotáková is golden",
                     "description": "Barbora Špotáková set a new Czech and European record. She won the Olympic Games in Beijing with a power of 71.42 meters."
+                }
+            }
+        }
+    ],
+    "08-28": [
+        {
+            "year": 2019,
+            "data": {
+                "cz": {
+                    "summary": "Slavia postupuje do skupin LM",
+                    "description": "SK Slavia Praha práží v odvetě 4. předkola Ligy Mistrů Kluž 1:0 a postupuje tak do základní fáze"
                 }
             }
         }
