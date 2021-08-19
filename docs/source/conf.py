@@ -18,7 +18,7 @@ sys.path.append(os.path.abspath('extensions'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'iepy'
+project = 'b23iepy'
 copyright = '2021, Bertik23'
 author = 'Bertik23'
 
