@@ -1,7 +1,7 @@
 API reference
 =============
 
-.. currentmodule:: iepy
+.. currentmodule:: b23iepy
 
 Event
 ~~~~~
@@ -22,6 +22,6 @@ Date
 Get Events
 ~~~~~~~~~~
 
-.. automethod:: iepy::getEvents
-.. automethod:: iepy::getTodayEvents
-.. automethod:: iepy::tweetEvent
+.. automethod:: b23iepy::getEvents
+.. automethod:: b23iepy::getTodayEvents
+.. automethod:: b23iepy::tweetEvent
