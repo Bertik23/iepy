@@ -1,13 +1,24 @@
 import setuptools
-import iepy
+import re
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
+version = ''
+with open('src/iepy/__init__.py') as f:
+    version = re.search(
+        r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]',
+        f.read(),
+        re.MULTILINE
+    ).group(1)
+
+if not version:
+    raise RuntimeError('version is not set')
+
 setuptools.setup(
-    name="b23"+iepy.__title__,  # Replace with your own username
-    version=iepy.__version__,
-    author=iepy.__author__,
+    name="b23iepy",  # Replace with your own username
+    version=version,
+    author="Bertik23",
     author_email="bertikxxiii@gmail.com",
     description="Package for Hydrocarbon to Image conversion",
     long_description=long_description,
