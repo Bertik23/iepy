@@ -10,7 +10,7 @@ try:
 except ImportError:
     pass
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 __title__ = 'iepy'
 __author__ = 'Bertik23'
 __license__ = 'MIT'

@@ -263,6 +263,24 @@
                     "description": "Barbora Špotáková set a new Czech and European record. She won the Olympic Games in Beijing with a power of 71.42 meters."
                 }
             }
+        },
+        {
+            "year": 1942,
+            "data": {
+                "cz": {
+                    "summary": "Začátek bitvy u Stalingradu",
+                    "description": "Německé jednotky překročili řeku Don, za chvíli padne Stalingrad."
+                }
+            }
+        },
+        {
+            "year": 1940,
+            "data": {
+                "cz": {
+                    "summary": "Zemřel Lev Trockij",
+                    "description": "Lev Davidovič Trockij zemřel po atentátu agenta NKVD. Dobře mu tak, nemá se stavět Stalinovi."
+                }
+            }
         }
     ],
     "08-28": [
@@ -272,6 +290,221 @@
                 "cz": {
                     "summary": "Slavia postupuje do skupin LM",
                     "description": "SK Slavia Praha práží v odvetě 4. předkola Ligy Mistrů Kluž 1:0 a postupuje tak do základní fáze"
+                }
+            }
+        }
+    ],
+    "08-22": [
+        {
+            "year": 1040,
+            "data": {
+                "cz": {
+                    "summary": "Břetislav I. vyhrál bitvu u Brůdku",
+                    "description": "Břetislav I. vyhrál bitvu u Brůdku ve Všebrudském průsmyku, a zahnal tak císaře Jindřicha III."
+                }
+            }
+        },
+        {
+            "year": 1471,
+            "data": {
+                "cz": {
+                    "summary": "Korunovace Vladislava Jagelonského",
+                    "description": "Vladislav Jagelonský byl korunován v chrámu sv. Víta. Co na to Matyáš?"
+                }
+            }
+        },
+        {
+            "year": 1785,
+            "data": {
+                "cz": {
+                    "summary": "Zrušení nevolnictví",
+                    "description": "Je to tu! Josef II. nás osvobodil, zrušil nevolnictví!\\n\\nAha, co? My už jsme 5 let volní a osvobodil maďary? Zavřít je měl"
+                }
+            }
+        },
+        {
+            "year": 1969,
+            "data": {
+                "cz": {
+                    "summary": "Přijat pendrekový zákon",
+                    "description": "Federální shromáždění přijalo tzv. pendrekový zákon, zpřísňuje tresty za protikomunistické projevy. Tak až zase někdy budete nadávat rozhlídněte se, jestli nevidíte Bureše."
+                }
+            }
+        },
+        {
+            "year": 1485,
+            "data": {
+                "cz": {
+                    "summary": "Konec války růží",
+                    "description": "Jindřich Tudor porazil Richarda III., který padl, v bitvě u Bosworthu. Snad je tý šílený válce konec."
+                }
+            }
+        },
+        {
+            "year": 1891,
+            "data": {
+                "cz": {
+                    "summary": "Zemřel Jan Neruda",
+                    "description": "S lístostí oznamujeme, že na zánět pobřišnice vyvolaný rakovinou střev zemřel Jan Neruda. Kde teď budu brát fejetony?"
+                }
+            }
+        }
+    ],
+    "08-23": [
+        {
+            "year": 1436,
+            "data": {
+                "cz": {
+                    "summary": "Zikmund Lucemburský přijíždí do Prahy",
+                    "description": "Velká sláva! Zikmund Lucemburský je v Praze, po 33 letech se k nám vrátil. Snad nám odpustí a bumeme mít nového krále."
+                }
+            }
+        },
+        {
+            "year": 1547,
+            "data": {
+                "cz": {
+                    "summary": "Bartolomějský sněm",
+                    "description": "Bartolomějský sněm za přítomnosti krále Ferdinanda potvrdil dědičné právo Habsburků na český trůn, omezil moc šlechty, zakázal stavovské spolky a vyhradil královi svolávat sněm."
+                }
+            }
+        },
+        {
+            "year": 1973,
+            "data": {
+                "cz": {
+                    "summary": "Miliontá Škodovka",
+                    "description": "Naše úžasná Škodovka vyrobila už milion aut. Miliontým automobilem vyrobeným v Mladé Boleslavi se stal vůz Škoda 1000 MB. Jen tak dál"
+                }
+            }
+        },
+        {
+            "year": 1914,
+            "data": {
+                "cz": {
+                    "summary": "Japonsko vyhlašuje válku německu",
+                    "description": "Máme dalšího protivníka, do Weltkriegu se přidává Japonsko."
+                }
+            }
+        },
+        {
+            "year": 1939,
+            "data": {
+                "cz": {
+                    "summary": "Molotov-Ribbentrop",
+                    "description": "Máme \"spojence\" Ribbentop uzavřel v Moskvě pakt s Molotovem, SSSR na nás nebude útočit a my nepujdem po nich."
+                }
+            }
+        },
+        {
+            "year": 1989,
+            "data": {
+                "cz": {
+                    "summary": "Lidský řetěz Vilnius-Tallinn",
+                    "description": "Dva miliony lidí vytvořily lidský řetěz z Vilniusu až do Tallinnu. Chtějí se trhnout od Svazu, držíme palce."
+                }
+            }
+        }
+    ],
+    "08-24": [
+        {
+            "year": 1290,
+            "data": {
+                "cz": {
+                    "summary": "Poprava Záviše",
+                    "description": "Před hradem Hluboká byl na příkaz Václava II. popraven Záviš z Falkenštejna. Dobře mu tak, nemá se cpát do politiky."
+                }
+            }
+        },
+        {
+            "year": 1978,
+            "data": {
+                "cz": {
+                    "summary": "Socha Klementa Gottwalda bum bum kabum",
+                    "description": "Někdo vyhodil do povětří sochu Klementa Gottwalda. Kdo to byl? Nevíme, ale určitě ho nečeká nic pěkného."
+                }
+            }
+        },
+        {
+            "year": 2006,
+            "data": {
+                "cz": {
+                    "summary": "Pluto už není planeta",
+                    "description": "Devátá planeta sluneční soustavy byla právě degradována do nově vzniklé kategorie trpasličích planet. Tak zní konsenzus vědců na mezinárodním astronomickém kongresu v Praze."
+                }
+            }
+        },
+        {
+            "year": 79,
+            "data": {
+                "cz": {
+                    "summary": "Výbuch Vesuvu",
+                    "description": "Vybuchl Vesuv! Umpřímnou soustrast pozůstalým z Pompejí a Herculanea, jestli to tedy někdo přežil."
+                }
+            }
+        },
+        {
+            "year": 410,
+            "data": {
+                "cz": {
+                    "summary": "Vizigóti dobyli Řím",
+                    "description": "Alarich ante portas!\\n\\nOh, tak už ne, už se svým vizigótským vojskem dobyl Řím. To už ale asi nikoho nezajímá."
+                }
+            }
+        }
+    ],
+    "08-25": [
+        {
+            "year": 1897,
+            "data": {
+                "cz": {
+                    "summary": "Tramvaje jezdí po Liberci",
+                    "description": "Crrr! Vorsicht tramvaj! Už je to tu! V po Reichenbergu se rozjely první staßenbahny."
+                }
+            }
+        },
+        {
+            "year": 1944,
+            "data": {
+                "cz": {
+                    "summary": "Bombardování Brna",
+                    "description": "Američani zabíjejíce 200 lidí bombardují Brno. Už abychom je porazili."
+                }
+            }
+        },
+        {
+            "year": 1990,
+            "data": {
+                "cz": {
+                    "summary": "Železniční nehoda u Spálova",
+                    "description": "Osobní vlak se srazil na nákladním vlakem. U Spálova dnes zemřelo 14 lidí. A já už asi nikdy nepojedu vlakem."
+                }
+            }
+        },
+        {
+            "year": 2006,
+            "data": {
+                "cz": {
+                    "summary": "Kalousek rezignuje na předsedu KDU",
+                    "description": "Miroslav Kalousek rezignoval na post předsedy KDU-ČSL, asi neunesl být ve vládě podporované komunisty."
+                }
+            }
+        },
+        {
+            "year": 1875,
+            "data": {
+                "cz": {
+                    "summary": "Přeplavání La Manche",
+                    "description": "On se neutopil! Matthew Webb to dokázal, přeplaval La Manche vlastní silou, stal se tak prvním plavcem který toto dokázal. Gratulujeme!"
+                }
+            }
+        },
+        {
+            "year": 1991,
+            "data": {
+                "cz": {
+                    "summary": "Bělorusko nezávislost",
+                    "description": "Bělorusko vyhlašuje nezávislost. Odtrhává se tak od rozpadajícího se Sovětského svazu. Hodně štěstí v demokracii přejeme."
                 }
             }
         }
